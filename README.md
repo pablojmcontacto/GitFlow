@@ -21,3 +21,6 @@
 
 <li><strong>Release</strong></li>
 <p>Rama que <strong>prepara una nueva versión del proyecto</strong>, incluyendo correcciones de errores y preparativos antes de pasar a una nueva rama (Master o Develop).</p>
+
+<li><strong>Hotfix</strong></li>
+<p>Rama <strong>dedicada a la corrección de errores críticos que hayan surgido en producción</strong>. Surgen de la rama Master y al corregir el problema se integran tanto con esta última rama como con Develop.</p>
