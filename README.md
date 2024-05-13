@@ -12,4 +12,4 @@
 <p>En esta rama se encuentra la <strong>versión estable del proyecto</strong> y que está </strong>lista para entrar en producción.</strong> </p>
 
 <li><strong>Develop</strong></li>
-<p> </p>
+<p>En esta rama <strong>se agregan nuevas características</strong> a nuestro proyecto , incluyendo la <strong>implementación de nuevo código.</strong></p>
