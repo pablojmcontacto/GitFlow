@@ -13,3 +13,8 @@
 
 <li><strong>Develop</strong></li>
 <p>En esta rama <strong>se agregan nuevas características</strong> a nuestro proyecto , incluyendo la <strong>implementación de nuevo código.</strong></p>
+
+<h2>Ramas de Soporte</h2>
+
+<li><strong>Feature</strong></li>
+<p>En esta rama <strong>se agregan nuevas características partiendo de la rama Develop</strong> y son introducidas en esta última una vez que la funcionalidad se haya completado.</strong></p>
