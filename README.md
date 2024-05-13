@@ -18,3 +18,6 @@
 
 <li><strong>Feature</strong></li>
 <p>En esta rama <strong>se agregan nuevas características partiendo de la rama Develop</strong> y son introducidas en esta última una vez que la funcionalidad se haya completado.</strong></p>
+
+<li><strong>Release</strong></li>
+<p>Rama que <strong>prepara una nueva versión del proyecto</strong>, incluyendo correcciones de errores y preparativos antes de pasar a una nueva rama (Master o Develop).</p>
